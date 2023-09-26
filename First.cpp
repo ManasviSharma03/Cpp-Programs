@@ -7,5 +7,4 @@ int main ()
     // cout << "output " <<a;
     cin>>a;
     cout<<sizeof(a);
-
 }
